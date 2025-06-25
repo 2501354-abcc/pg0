@@ -1,0 +1,28 @@
+nav{
+  background-color:#f1b2cf;
+  padding:10px;
+  width:100%;
+}
+nav ul{
+  list-style:none;
+  padding:0px;
+  margin:0px;
+  display:flex;
+}
+nav a{
+  color:#ffffff;
+  text-decoration:none;
+  padding:10px;
+}
+nav a:hover{
+  background-color:#f38a8a;
+}
+hr{
+  height: 10px;
+  background: gold;
+  border: #f38a8a;
+}
+
+.right{
+  display:flex
+}
